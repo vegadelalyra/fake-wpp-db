@@ -15,7 +15,7 @@
     ],
     "author": "Vega de la Lyra <lyradeperseo@gmail.com> (https://www.linkedin.com/in/vegadelalyra/)",
     "license": "MIT",
-    "dependencies": {
+    "devDependencies": {
         "json-server": "^0.17.3"
     }
 }
